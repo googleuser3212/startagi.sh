@@ -1,0 +1,1 @@
+node /var/www/html/admin/modules/core/node/fastagi-server.js
